@@ -1,0 +1,109 @@
+List pastWinners = [
+  
+  'FNB Banking',
+  'Descovery HealthID',
+  'Matchy',
+  'phrazapp',
+  'Plascon',
+  'rapid targets',
+  'Transunion dealers guide',
+  
+  'bookly',
+  'deloitte digital',
+  'dstv',
+  'gautrain buddy',
+  'kids aid',
+  'markitshare',
+  'nedbank banking',
+  'price check',
+  'snapscan'
+  
+  'live-inspect',
+  'my-belongings',
+  'rea-vaya',
+  'supersport',
+  'sync-mobile',
+  'vigo',
+  'wildlife tracker',
+  'zapper'
+  
+  'cput-mobile',
+  'dstv-now',
+  'eskomsepush',
+  'm4jam',
+  'vula-mobile',
+  'wumdrop'
+
+  'domestly',
+  'friendly math mosters for kindergarten',
+  'hearza',
+  'ikhokha',
+  'kaching',
+  'mibrand',
+  'tuta-me'
+
+  'orderin',
+  'intergreatmev',
+  'pick-n-pay-super-animals-2',
+  'watif-health-portal',
+  'transunion-1check',
+  'hey-jude',
+  'oru-social-touchsa',
+  'awethu-project',
+  'zulzi',
+  'shyft',
+  'ecoslips'
+  
+  'cowa-bunga',
+  'acgl',
+  'besmarta',
+  'cander-english',
+  'ctrl',
+  'pineapple',
+  'bestee',
+  'stokfella-2',
+  'asi-snakes'
+  
+
+  'digger',
+  'si-realities',
+  'vula',
+  'Hydra',
+  'matric-live',
+  'franc',
+  'over',
+  'loctransi',
+  'naked-insurance',
+  'my-pregnancy-journey',
+  'loot-defence',
+  'mowash'
+  
+  'checkers sixty60',
+  'easy-equities',
+  'birdpro',
+  'technishen',
+  'matric live',
+  'stokfella',
+  'bottles',
+  'lexie-hearing',
+  'league-of-legends',
+  'examsta',
+  'xitsonga-dictionary',
+  'greenfingers-mobile',
+  'uardian-health',
+  'my-pregnancy-journey'
+
+  'Ambani-Afrika',
+  'takealot',
+  'shyft',
+  'sisa',
+  'iiDENTIFi',
+  'Guardian-Health-Platform',
+  'murimi',
+  'uniwise',
+  'kazi',
+  'Rekindle',
+  'Hellopay-SoftPOS',
+  'Roadsave'
+  
+];
